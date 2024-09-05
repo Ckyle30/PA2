@@ -80,6 +80,7 @@ print("\nElements Divisible by 3:\n", divisible_by_3)
 
 ```
 *Output:*
+
 ![image](https://github.com/user-attachments/assets/bff9fb1f-fd65-4294-afa0-c6879c13ee21)
 
 
